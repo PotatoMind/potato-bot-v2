@@ -1,0 +1,19 @@
+{
+  "ownerID": "",
+  "token": "",
+  "defaultSettings": {
+    "youtubeAPIKey": "",
+    "defaultVolume": 5,
+    "maxSongs": 10,
+    "maxSongLength": 120,
+    "paginatedItems": 5,
+    "modLogChannel": "mod-log",
+    "modRole": "Mod",
+    "adminRole": "Admin",
+    "muteRole": "Muted",
+    "prefix": "!",
+    "joinableRoles": [
+      "Member"
+    ]
+  }
+}
